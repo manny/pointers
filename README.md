@@ -1,0 +1,4 @@
+pointers
+========
+
+C pratice
